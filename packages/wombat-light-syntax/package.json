@@ -1,0 +1,73 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/8p/m09w90t10cn74v1k_572mxgc0000gn/T/d-118314-24354-62j0yo.a2k1yk3xr/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/8p/m09w90t10cn74v1k_572mxgc0000gn/T/d-118314-24354-62j0yo.a2k1yk3xr/package.tgz",
+        "spec": "/private/var/folders/8p/m09w90t10cn74v1k_572mxgc0000gn/T/d-118314-24354-62j0yo.a2k1yk3xr/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/8p/m09w90t10cn74v1k_572mxgc0000gn/T/apm-install-dir-118314-24354-dyqj8i.6uwgwj0pb9"
+    ]
+  ],
+  "_from": "../d-118314-24354-62j0yo.a2k1yk3xr/package.tgz",
+  "_id": "wombat-light-syntax@1.2.0",
+  "_inCache": true,
+  "_location": "/wombat-light-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/8p/m09w90t10cn74v1k_572mxgc0000gn/T/d-118314-24354-62j0yo.a2k1yk3xr/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/8p/m09w90t10cn74v1k_572mxgc0000gn/T/d-118314-24354-62j0yo.a2k1yk3xr/package.tgz",
+    "spec": "/private/var/folders/8p/m09w90t10cn74v1k_572mxgc0000gn/T/d-118314-24354-62j0yo.a2k1yk3xr/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-118314-24354-62j0yo.a2k1yk3xr/package.tgz",
+  "_shasum": "b6ffa69b04931a79d4f528501895ae103bf92e64",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/8p/m09w90t10cn74v1k_572mxgc0000gn/T/d-118314-24354-62j0yo.a2k1yk3xr/package.tgz",
+  "_where": "/private/var/folders/8p/m09w90t10cn74v1k_572mxgc0000gn/T/apm-install-dir-118314-24354-dyqj8i.6uwgwj0pb9",
+  "bugs": {
+    "url": "https://github.com/promek/wombat-light-syntax/issues"
+  },
+  "dependencies": {},
+  "description": "Wombat Atom Light Syntax Theme. ( Python, GoLang, Angular, Javascript, NodeJS, Markdown, PHP, HTML, CSS )",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/promek/wombat-light-syntax#readme",
+  "keywords": [
+    "python",
+    "golang",
+    "angular",
+    "php",
+    "javascript",
+    "nodejs",
+    "markdown",
+    "html",
+    "css",
+    "wombat",
+    "light",
+    "syntax"
+  ],
+  "license": "MIT",
+  "name": "wombat-light-syntax",
+  "optionalDependencies": {},
+  "readme": "# Wombat Light Syntax Theme\n\nAn [Atom](https://atom.io/) syntax theme. ( Python, GoLang, Angular, Javascript, NodeJS, Markdown, PHP, HTML, CSS )\n\n* Atom port of the Vim [Wombat](http://www.vim.org/scripts/script.php?script_id=1778) color scheme.\n* Converted from the [One Light Syntax](https://github.com/atom/one-light-syntax)\n\n## Screenshot\n\n* Python\n\n![python](https://cloud.githubusercontent.com/assets/4887563/8381550/11b29d8e-1c35-11e5-9279-fdaed5ac1c03.png)\n\n* HTML\n\n![html](https://cloud.githubusercontent.com/assets/4887563/8381539/09e3218c-1c35-11e5-9ff8-c0f8fd03480a.png)\n\n* CSS\n\n![css](https://cloud.githubusercontent.com/assets/4887563/8381511/dd520c00-1c34-11e5-954d-f4008f5c7581.png)\n\n* NodeJS\n\n![node](https://cloud.githubusercontent.com/assets/4887563/8381546/0eb08ab0-1c35-11e5-8348-a233ab754224.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/promek/wombat-light-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "1.2.0"
+}

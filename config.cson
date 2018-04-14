@@ -1,0 +1,46 @@
+"*":
+  Hydrogen:
+    outputAreaDefault: true
+    outputAreaDock: true
+  "atom-python-virtualenv":
+    additionalVirtualEnvPaths: "$HOME/src/pytestfhir"
+    getVirtualEnvsFromHome: false
+    getVirtualEnvsFromWrapper: false
+  "autocomplete-python":
+    useKite: false
+  autosave:
+    enabled: true
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "atom-dark-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+  editor:
+    fontFamily: "Consolas:"
+    fontSize: 12
+    lineHeight: 1.7
+    preferredLineLength: 79
+    scrollPastEnd: true
+    showIndentGuide: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "af447522-870d-dd5c-a473-1621a46d5b37"
+  "git-diff": {}
+  "linter-ui-default":
+    showPanel: true
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+  "python-autopep8":
+    formatOnSave: true
+  runner:
+    scopes:
+      python: "python3"
+  welcome:
+    showOnStartup: false
+".breakpoints.hydrogen":
+  editor:
+    autoIndent: false
+    autoIndentOnPaste: false
